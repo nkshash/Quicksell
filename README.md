@@ -20,7 +20,6 @@ to visit [click here](https://quicksell-chi.vercel.app/).
 
 - React
 - HTML/CSS
-- [Any additional libraries or tools used]
 - FontAwesome Icons
 
 ## Installation
