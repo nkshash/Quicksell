@@ -29,7 +29,7 @@ To run this React app locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-react-assignment.git
+git clone https://github.com/nkshash/Quicksell.git
 cd your-react-assignment
 ```
 Install project dependencies:
