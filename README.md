@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is a React web application created as an assignment to display categorized data in a table format. The application allows users to view and interact with data organized into categories. Each category is represented in a table, making it easy to visualize and explore the data.
+This is a full responsive React web application created as an assignment to display categorized data in a table format. The application allows users to view and interact with data organized into categories. Each category is represented in a table, making it easy to visualize and explore the data.
 
 The primary objectives of this assignment are as follows:
 
